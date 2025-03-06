@@ -1,11 +1,9 @@
 "This is a conflict file"
 
-<<<<<<< HEAD
+HEAD
 Content from branch A
 Content from branch B
-=======
+
 Content from branch A 
->>>>>>> branchA
+branchA
 
-
-Content from branch A and branch B
