@@ -1,4 +1,11 @@
 "This is a conflict file"
 
+<<<<<<< HEAD
 Content from branch A
 Content from branch B
+=======
+Content from branch A 
+>>>>>>> branchA
+
+
+Content from branch A and branch B
