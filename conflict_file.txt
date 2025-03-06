@@ -1,1 +1,4 @@
-"This is a conflict file" 
+"This is a conflict file"
+
+Content from branch A
+Content from branch B
